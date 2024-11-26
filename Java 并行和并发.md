@@ -61,6 +61,7 @@ public class ConcurrencyExample {
 ```
 # 3. 并发和并行的核心区别
 
+![Alt Text](https://github.com/yangdanfeng115/JavaStudy/blob/main/images/%E5%B9%B6%E5%8F%91%E4%B8%8E%E5%B9%B6%E8%A1%8C.png)
 
 # 4. Java 中的并发与并行
 
