@@ -67,7 +67,7 @@ JVM 运行中可能会触发 Full GC 来整理内存碎片。
 
 ## 三者对比总结
 
-![Alt text]([image_url](https://github.com/yangdanfeng115/JavaStudy/blob/main/images/comparation%20in%20minor%20GC%20major%20GC%20and%20full%20GC.png))
+![Alt text](https://github.com/yangdanfeng115/JavaStudy/blob/main/images/comparation%20in%20minor%20GC%20major%20GC%20and%20full%20GC.png))
 
 ## 性能优化建议
 
